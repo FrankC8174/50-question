@@ -14,6 +14,7 @@ print()
 5) What can we use to save a value for later use in our code? Provide an example.
 we would use a variable. Ex. x = 5 
 6) What can I do to prevent certain files and directories from being tracked by git?
+
 7) What can be used in order to repeat some block of code? Provide 2 examples.
 8) When saving a value for later use what type of operator do we use?
 9) What's the key difference between git revert and git reset?
