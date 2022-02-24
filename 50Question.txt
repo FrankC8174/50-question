@@ -24,6 +24,7 @@ There are two types of loops, “while loops” and “for loops”. While loops
 8) When saving a value for later use what type of operator do we use?
 =
 9) What's the key difference between git revert and git reset?
+revert saves history, were as , reset deletes all history.
 10) What's the key difference between Python lists and tuples?
 11) What can I do to know where I am within my file system?
 12) Describe the anatomy of a Python dictionary and create one below.
