@@ -50,6 +50,7 @@ binary code
 17) What do we need in order for your computer to make use of programming languages?
 a compiler
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
+uno
 19) What does frontend / client side mean?
 20) What does backend / server side mean?
 21) What are 3 way to create a Python string?
