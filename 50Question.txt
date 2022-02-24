@@ -48,6 +48,7 @@ boolean
 16) What language does your computer understand?
 binary code
 17) What do we need in order for your computer to make use of programming languages?
+a compiler
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
 19) What does frontend / client side mean?
 20) What does backend / server side mean?
