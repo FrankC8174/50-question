@@ -10,6 +10,7 @@ muliti lines of comments
 python3 app.py
 
 4) Demonstrate how I can tell a Python program to display something in the command line.
+print()
 5) What can we use to save a value for later use in our code? Provide an example.
 6) What can I do to prevent certain files and directories from being tracked by git?
 7) What can be used in order to repeat some block of code? Provide 2 examples.
