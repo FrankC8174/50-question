@@ -28,6 +28,7 @@ revert saves history, were as , reset deletes all history.
 10) What's the key difference between Python lists and tuples?
 list are mutable were as, tuples are immutable.
 11) What can I do to know where I am within my file system?
+pwd
 12) Describe the anatomy of a Python dictionary and create one below.
 13) What type of values can be in a Python dictionary?
 14) What type of values can be in a Python list?
