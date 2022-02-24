@@ -56,11 +56,13 @@ The front side what the user sees.
 20) What does backend / server side mean?
 The back side or what the user does not see.
 21) What are 3 way to create a Python string?
+Using single double or triple quotes.
 22) What are 2 types of number data types in Python? Provide an example.
+Int and float 24 2.4
 23) Are we able to add two strings together? How?
+Yes, You can join strings using either the addition (+) operator or the String's concat() method.
 24) What commands would you use to create the following file structure? (write every command line by line):
-    
-    Desktop
+  Desktop
     -> projects
         -> instagram
             -> images
@@ -69,12 +71,28 @@ The back side or what the user does not see.
         -> tiktok
             -> clips
             -> app.py
+            From the desktop you would cd into projects, cd into instagram cd into images, 
+            and ls. Cd .. back once then cd into TikTok cd into clips and ls.
+
 25) What is the path to profile_image.jpg?
+esktop/projects/instagram/images/profile_image.jpg
 26) What commands can I use to get from the clips directory to the images directory? (write every command line by line):
+command line by line):
+Cd ..
+Cd ..
+Cd ..
+Cd images
+Ls.
+
 27) What method can I use to change this string from "troy" to "Troy"? 
+string.replace("troy", "Troy",)
 28) What method can I use to change this string from "TROY" to "troy"?
+string.replace("Troy", "troy")
 29) How can I check to see if all of the characters in a string are numbers/digits?
+Call the built-in str. isdecimal() method on the target string str to return a boolean value
+ that represents whether all characters of the string are numeric digits or not.
 30) How can I split a string into a list with each value in the list being a line of the string?
+The split() method splits a string into a list. You can specify the separator, default separator is any whitespace.
 31) What are the Python comparison operators? List each and describe.
 32) What are the Python logical operators? List each and describe.
 33) How can we decide to run one piece of code versus another? Provide an example.
