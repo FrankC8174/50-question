@@ -39,6 +39,7 @@ mydict = {
   "Year" : "1964"
 }
 13) What type of values can be in a Python dictionary?
+any value, save special term used by python.
 14) What type of values can be in a Python list?
 15) What data type are True and False?
 16) What language does your computer understand?
