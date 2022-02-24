@@ -54,6 +54,7 @@ uno
 19) What does frontend / client side mean?
 The front side what the user sees.
 20) What does backend / server side mean?
+The back side or what the user does not see.
 21) What are 3 way to create a Python string?
 22) What are 2 types of number data types in Python? Provide an example.
 23) Are we able to add two strings together? How?
