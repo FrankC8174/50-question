@@ -94,15 +94,45 @@ Call the built-in str. isdecimal() method on the target string str to return a b
 30) How can I split a string into a list with each value in the list being a line of the string?
 The split() method splits a string into a list. You can specify the separator, default separator is any whitespace.
 31) What are the Python comparison operators? List each and describe.
++ addition x+y
+- subtraction x - y
+* multiplication x * y
+/ division x / y
+% modulus x % y
+** exponentiation x ** y
+// floor division x // y
 32) What are the Python logical operators? List each and describe.
+and	True if both are true	x and y
+or	True if at least one is true	x or y
+not	True only if false	not x
+
 33) How can we decide to run one piece of code versus another? Provide an example.
+functions
 34) What can I do to work on my primary code, but not mess it up? Provide an example.
+ut a branch and work on the code.
+Git branch "Name"
 35) What do I do in order to make sure I have the latest code on my machine?
+Git pull from the main branch at the beginning of your session as well as after merges.
+
 36) How can I accept user input into my Python code?
+The input() command allows you to require a user to enter a string or number while a program is running.
+
 37) How can I see all of my git commits?
+git log --oneline
 38) How can I add a value to a Python list?
+There are four methods to add elements to a List in Python.
+
+append(): append the object to the end of the list.
+insert(): inserts the object before the given index.
+extend(): extends the list by appending elements from the iterable.
+List Concatenation: We can use + operator to concatenate multiple lists and create a new list.
 39) How can I remove a value from a Python list?
+In Python, use list methods clear() , pop() , and remove() to remove items (elements) from a list.
 40) How can I access a value in a Python dictionary?
+Method #1 : Using in operator.
+Method #2 : Using list comprehension.
+Method #3 : Using dict.items()
+Method #4 : Using enumerate()
 41) How can I remove a value from a Python dictionary?
 42) How can I change a value in a Python dictionary?
 43) What is a pull request? Describe it in detail.
