@@ -41,6 +41,8 @@ mydict = {
 13) What type of values can be in a Python dictionary?
 any value, save special term used by python.
 14) What type of values can be in a Python list?
+Lists can contain elements of various data types.
+
 15) What data type are True and False?
 16) What language does your computer understand?
 17) What do we need in order for your computer to make use of programming languages?
