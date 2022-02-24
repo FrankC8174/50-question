@@ -30,6 +30,14 @@ list are mutable were as, tuples are immutable.
 11) What can I do to know where I am within my file system?
 pwd
 12) Describe the anatomy of a Python dictionary and create one below.
+
+Dictionaries are written with curly brackets and have keys and values
+
+mydict = {
+  "Brand": "Ford"
+  "Model": "Mustang"
+  "Year" : "1964"
+}
 13) What type of values can be in a Python dictionary?
 14) What type of values can be in a Python list?
 15) What data type are True and False?
